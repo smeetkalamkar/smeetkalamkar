@@ -9,7 +9,7 @@ Observant and detail-oriented full-stack developer with a specialization in MERN
 * 🌍  I'm based in Nagpur ,Maharashtra
 * ✉️  You can contact me at [smitkalamkar1997@gmail.com](mailto:smitkalamkar1997@gmail.com)
 * 🧠  I'm learning React,Redux
-* ⚡  I think I am funny
+* ⚡  I think I am Funny
 
 ### Skills
 
